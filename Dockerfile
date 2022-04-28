@@ -11,3 +11,4 @@ HEALTHCHECK --interval=10s \
 
 # tell docker what port to expose
 EXPOSE 8000
+
